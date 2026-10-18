@@ -1,0 +1,19 @@
+# Dependencies
+node_modules/
+.npm/
+
+# Duplicate inner folder
+CV-website/
+
+# Test outputs, verification captures & caches
+test-results/
+playwright-report/
+blob-report/
+*.log
+assets/verification-*.png
+
+# OS & Editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

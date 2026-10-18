@@ -1,0 +1,16 @@
+{
+  "name": "cv-website",
+  "version": "1.0.0",
+  "description": "An enterprise-grade, single-page interactive developer product launch portfolio application designed like modern engineering releases from Stripe, Linear, and Vercel.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "playwright": "^1.64.1"
+  }
+}
